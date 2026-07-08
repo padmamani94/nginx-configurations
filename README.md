@@ -1,0 +1,2 @@
+# nginx-configurations
+basic configuration
